@@ -16,6 +16,7 @@ module.exports = {
         'react/prefer-stateless-function': 'error',
         'react/prop-types': 'error',
         'react/jsx-props-no-multi-spaces': 'off',
+        'react/require-default-props': 'error',
         'react/no-find-dom-node': 'error',
         'react/forbid-prop-types': 'error',
         'react/no-string-refs': 'error',
